@@ -1,0 +1,2 @@
+# DS_YP_Behavioral_Scoring_Default_Prediction
+Модель поведенческого скоринга для прогнозирования дефолта клиентов банка
